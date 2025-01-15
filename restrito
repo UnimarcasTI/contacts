@@ -5,13 +5,13 @@
         "number": "1001",
         "name": "Fabio Candeo",
         "info": "Diretor",
-        "presence": 1
+        "presence": 0
       },
       {
         "number": "1002",
         "name": "Simone Silva Leite",
         "info": "Administradora Geral",
-        "presence": 1
+        "presence": 0
       },
       {
         "number": "101",
